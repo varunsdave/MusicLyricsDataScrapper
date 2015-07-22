@@ -1,0 +1,9 @@
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\bin\Debug\MusicLyricsDataScrapper.exe.config
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\bin\Debug\MusicLyricsDataScrapper.exe
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\bin\Debug\MusicLyricsDataScrapper.pdb
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\bin\Debug\HtmlAgilityPack.dll
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\bin\Debug\HtmlAgilityPack.pdb
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\bin\Debug\HtmlAgilityPack.xml
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\obj\Debug\MusicLyricsDataScrapper.csprojResolveAssemblyReference.cache
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\obj\Debug\MusicLyricsDataScrapper.exe
+D:\Development\MusicLyricsDataScrapper\MusicLyricsDataScrapper\obj\Debug\MusicLyricsDataScrapper.pdb
